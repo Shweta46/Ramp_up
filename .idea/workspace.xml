@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d066321e-053a-4b43-bc7d-f55612416a6d" name="Changes" comment="todo">
+    <list default="true" id="d066321e-053a-4b43-bc7d-f55612416a6d" name="Changes" comment="notification app">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,6 +45,7 @@
     "Python.array_operations.executor": "Run",
     "Python.class_hierarchy.executor": "Run",
     "Python.classes.executor": "Run",
+    "Python.currency_converter.executor": "Run",
     "Python.desktop_notifier.executor": "Run",
     "Python.eight.executor": "Run",
     "Python.encapsulation.executor": "Run",
@@ -84,7 +85,7 @@
       <recent name="$PROJECT_DIR$/Day 1" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.desktop_notifier">
+  <component name="RunManager" selected="Python.currency_converter">
     <configuration name="Boolean_indexing" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject" />
       <option name="ENV_FILES" value="" />
@@ -107,7 +108,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="advance_numpy_operations" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="currency_converter" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -116,11 +117,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 5" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 7" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 5/advance_numpy_operations.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 7/currency_converter.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -219,11 +220,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.currency_converter" />
         <item itemvalue="Python.desktop_notifier" />
         <item itemvalue="Python.to-do-list" />
         <item itemvalue="Python.Boolean_indexing" />
         <item itemvalue="Python.matrix_operations" />
-        <item itemvalue="Python.advance_numpy_operations" />
       </list>
     </recent_temporary>
   </component>
@@ -267,14 +268,23 @@
       <option name="project" value="LOCAL" />
       <updated>1713520691259</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="notification app">
+      <option name="closed" value="true" />
+      <created>1713522948541</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1713522948541</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Init" />
     <MESSAGE value="Initret" />
     <MESSAGE value="todo" />
-    <option name="LAST_COMMIT_MESSAGE" value="todo" />
+    <MESSAGE value="notification app" />
+    <option name="LAST_COMMIT_MESSAGE" value="notification app" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
