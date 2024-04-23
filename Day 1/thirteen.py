@@ -9,5 +9,4 @@ def max_sum_sublist(d):
         if current > maximum:
             maximum = current
     return maximum
-
 print(max_sum_sublist(l))

@@ -10,6 +10,18 @@ def maximum1(d):
     for i, j in d.items():
         if j == max_:
             return i
+
+def maximum_(d):
+    d = list(b.items())
+    p = max(d, key= lambda x:x[1])
+    print('The list:', p)
+print(maximum_(b))
+
+my_tuple = ('apple', 'banana')
+fruit1, fruit2 = my_tuple
+print(fruit1)  # Output: 'apple'
+print(fruit2)  # Output: 'banana'
+
 def maximum(d):
     max_val = float('-inf')
     max_key = None
