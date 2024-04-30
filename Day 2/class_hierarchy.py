@@ -7,6 +7,10 @@ class Animal:
         pass
 
 class Dog(Animal):
+    # def __init__(self, name, woof):
+    #     super().__init__(name)
+    #     self.woof = woof
+
     def speak(self):
         return 'Woof' # overridden method
     def extend_(self):

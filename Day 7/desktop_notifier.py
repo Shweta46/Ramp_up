@@ -10,7 +10,7 @@ def send_notification():
     notification.notify(
     title = main_title,
     message = notification_message,
-    timeout = 10  #time to display the message
+    timeout = 5*60  #time to display the message
     )
     allTask()
 
